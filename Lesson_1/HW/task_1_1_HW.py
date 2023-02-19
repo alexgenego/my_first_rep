@@ -1,1 +1,1 @@
-('All done!')
+print ('All done!')
